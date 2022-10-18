@@ -1,6 +1,8 @@
 #DAMG-6210 Final Project
 #Online Retail Management System
-![<# alt text #>](../../../Downloads/Ecommerce%20web%20page-pana.svg "Ecommerce web page-pana.svg")
+
+![undraw_add_to_cart_re_wrdo](https://user-images.githubusercontent.com/46862684/196309265-1ad43977-7cdc-4b3d-880b-c021855eadba.svg)
+
 
 ##Description
 Developed a centralized Online Retail Management System which accommodates customer and administrator roles to facilitate in online product purchase and inventory management.
