@@ -1,5 +1,5 @@
-#DAMG-6210 Final Project
-#Online Retail Management System
+DAMG-6210 Final Project
+Online Retail Management System
 ![<# alt text #>](../../../Downloads/Ecommerce%20web%20page-pana.svg "Ecommerce web page-pana.svg")
 
 ##Description
