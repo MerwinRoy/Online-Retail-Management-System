@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-DAMG-6210 Final Project
-Online Retail Management System
+#DAMG-6210 Final Project [Online Retail Management System]
 
 
 ![undraw_add_to_cart_re_wrdo](https://user-images.githubusercontent.com/46862684/196309265-1ad43977-7cdc-4b3d-880b-c021855eadba.svg)
 
->>>>>>> 904cfa1cb201ba407ac164907ba8f9715627d00e
+
 
 ##Description
 Developed a centralized Online Retail Management System which accommodates customer and administrator roles to facilitate in online product purchase and inventory management.
@@ -28,8 +26,14 @@ Siddharth Natekar
 
 ##Steps for running project for dmdd project
 1.run 'tables and references'.
+
 2.run 'functionsseqindexview' contains everything apart from procedures and also contains prerequisite for procedures.
+
 3.run package.
+
 4.'(In order to prepopulate table with data with sample data run file prepopulate and execute the procedure)'.
+
 5.At the end drop all tables file.
+
 6.Set serveroutput on to view your orderid when generating the same.
+
