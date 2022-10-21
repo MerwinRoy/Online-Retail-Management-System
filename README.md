@@ -1,8 +1,6 @@
 # DAMG-6210 Final Project [Online Retail Management System]
 
-
-![undraw_add_to_cart_re_wrdo](https://user-images.githubusercontent.com/46862684/196309265-1ad43977-7cdc-4b3d-880b-c021855eadba.svg)
-
+![Ecommerce web page-amico](https://user-images.githubusercontent.com/46862684/197083479-a34187af-2e72-4c32-8d6b-3b5f39d5f2c5.png)
 
 
 ## Description
@@ -18,13 +16,13 @@ To develop a centralized system for e-commerce application and its inventory man
 Oracle SQL Developer, Oracle ATP database
 
 ## Team
-**Name**			                    **NEU ID**
---- Merwin Roy			              002959569
---- Abhijit Kunjiraman	
---- Siddharth Natekar	
+| **Team Members**|
+| ------------- |
+| Merwin Roy      |
+| Abhijit Kunjiraman|
+| Sidharth Natekar |
 
-
-## Steps for running project for dmdd project
+## Steps to run the project
 1. Run 'tables and references'.
 
 2. Run 'functionsseqindexview' contains everything apart from procedures and also contains prerequisite for procedures.
