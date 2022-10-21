@@ -18,10 +18,10 @@ To develop a centralized system for e-commerce application and its inventory man
 Oracle SQL Developer, Oracle ATP database
 
 ## Team
-**Name**			**NEU ID**
-Merwin Roy			002959569
-Abhijit Kunjiraman	
-Siddharth Natekar	
+**Name**			                    **NEU ID**
+--- Merwin Roy			              002959569
+--- Abhijit Kunjiraman	
+--- Siddharth Natekar	
 
 
 ## Steps for running project for dmdd project
@@ -29,7 +29,7 @@ Siddharth Natekar
 
 2. Run 'functionsseqindexview' contains everything apart from procedures and also contains prerequisite for procedures.
 
-3. run package.
+3. Run package.
 
 4. '(In order to prepopulate table with data with sample data run file prepopulate and execute the procedure)'.
 
